@@ -60,7 +60,6 @@ echo Siemaneczko kolaneczko.
 echo Klikniesz moze dla mnie spacje.
 pause
 calc
-explorer.exe
 start
 start
 notepad.exe
