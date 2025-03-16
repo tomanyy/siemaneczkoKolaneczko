@@ -59,14 +59,10 @@ cls
 echo Siemaneczko kolaneczko.
 echo Klikniesz moze dla mnie spacje.
 pause
-calc
 start
 start
 notepad.exe
 mspaint
-calc
-calc
-calc
 mspaint
 notepad.exe
 start https://github.com/tomanyy/siemaneczkoKolaneczko/blob/main/siemaneczkoKolaneczko.bat
