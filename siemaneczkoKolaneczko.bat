@@ -38,9 +38,7 @@ calc
 calc
 mspaint
 notepad.exe
-start SIEMA
-start SIEMA
-:loopEcho
 
+:loopEcho
 echo DZIENKOWAC!!
 goto loopEcho
